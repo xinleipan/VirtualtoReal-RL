@@ -1,6 +1,6 @@
 ## Virtual to Real Reinforcement Learning for Autonomous Driving ##
 #### In BMVC 2017 (Spotlight Presentation) ####
-By Xinlei Pan, Yurong You, Ziyan Wang, Cewu Lu
+By Xinlei Pan* Yurong You* Ziyan Wang, Cewu Lu
 
 ## Introduction
 
