@@ -41,4 +41,4 @@ Just `./install.sh` , it will need you enter password in the middle. Then the to
 ## Note
 * if you change anything in the source code (`./torcs-1.3.6/`) and want to make this take effect, you need to reinstall torcs.
 
-* In case any stuck happens when you click `Configure Race` while initialization, put the quickrace.xml under TORCS root folder `./torcs/config/raceman/`
+* In case any stuck happens when you click `Configure Race` while initialization, put the quickrace.xml under TORCS root folder`./torcs/config/raceman/`
