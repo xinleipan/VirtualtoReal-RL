@@ -17,8 +17,6 @@ This repo contains a [Torch](http://torch.ch/) implementation of our virtual
 to real reinforcement learning framework. The code contains two main parts:
 TORCS car racing simulator and image translation network.
 
-## License
-
 ## Citing Virtual to Real Reinforcement Learning for Autonomous Driving
 
 If you find this work or our implementation useful in your research, 
