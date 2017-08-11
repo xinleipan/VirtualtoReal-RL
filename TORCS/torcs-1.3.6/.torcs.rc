@@ -1,0 +1,2 @@
+TORCS_BASE = /home/xinleipan/TORCS/torcs-1.3.6
+MAKE_DEFAULT = /home/xinleipan/TORCS/torcs-1.3.6/Make-default.mk
