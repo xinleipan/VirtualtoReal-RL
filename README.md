@@ -15,7 +15,9 @@ described in an [arXiv technical report](https://arxiv.org/abs/1704.03952).
 
 This repo contains a [Torch](http://torch.ch/) implementation of our virtual
 to real reinforcement learning framework. The code contains two main parts:
-TORCS car racing simulator and image translation network.
+TORCS car racing simulator and image translation network. Stay tuned for more
+updates. 
+
 
 ## Citing Virtual to Real Reinforcement Learning for Autonomous Driving
 
