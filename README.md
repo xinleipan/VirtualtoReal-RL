@@ -1,6 +1,6 @@
 ## Virtual to Real Reinforcement Learning for Autonomous Driving ##
 #### In BMVC 2017 (Spotlight Presentation) ####
-By Xinlei Pan* Yurong You* Ziyan Wang, Cewu Lu
+By Xinlei Pan*, Yurong You*, Ziyan Wang, Cewu Lu
 
 ## Introduction
 
@@ -37,9 +37,11 @@ The TORCS car racing simulator can be installed to collect
 images, their segmentations. It can also be installed as a
 reinforcement learning training environment. 
 
+For detailed instructions, see [here](https://github.com/YurongYou/rlTORCS)
+for more. 
 ### Install TORCS to collect virtual images
 Follow the directions in 
-[README.md](https://github.com/xinleipan/virtual-to-real-rl/blob/master/TORCS/README.md) 
+[README.md](https://github.com/xinleipan/VirtualtoReal-RL/blob/master/TORCS/README.md) 
 to install TORCS. 
 
 ### Install TORCS to collect virtual images' segmentation
@@ -47,7 +49,7 @@ Replace folder `TORCS/torcs-1.3.6/data/tracks/e-track-1`
 with `data/TORCS/e-track-1`; replace folder `TORCS/torcs-1.3.6/
 data/tracks/road/g-track-2` with `data/TORCS/g-track-2`. 
 Remove previous installed TORCS and reinstall
-TORCS following [README.md](https://github.com/xinleipan/virtual-to-real-rl/blob/master/TORCS/README.md). 
+TORCS following [README.md](https://github.com/xinleipan/VirtualtoReal-RL/blob/master/TORCS/README.md). 
 
 ### Training virtual-to-seg and seg-to-real networks
 Example pictures of virtual-to-seg and seg-to-real 
@@ -55,4 +57,5 @@ translation has been put in data/examples/seg-to-real.png.
 
 To train segmentation to realistic image translation
 network, download the segmented data from [here](https://drive.google.com/file/d/0B6QMkcB4kQntOUx5SzJSWUc5ZlU/view?usp=sharing). Then follow pix2pix network
-to train the seg-to-real network. 
+to train the seg-to-real network.
+ 
