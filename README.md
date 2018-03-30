@@ -56,7 +56,8 @@ Example pictures of virtual-to-seg and seg-to-real
 translation has been put in data/examples/seg-to-real.png.
 
 To train segmentation to realistic image translation
-network, download the segmented data from [here](https://drive.google.com/file/d/0B6QMkcB4kQntOUx5SzJSWUc5ZlU/view?usp=sharing). Then follow pix2pix network to train the seg-to-real network.
+network, download the segmented data from [here](https://drive.google.com/file/d/0B6QMkcB4kQntOUx5SzJSWUc5ZlU/view?usp=sharing) and [here](https://drive.google.com/file/d/1I7Isz4jmER-TpFlGi9rCBzOIr6gxvwyM/view?usp=sharing
+https://drive.google.com/file/d/1Nyi2C2V21np-PIPFbLDyjZi1c0DrHuH_/view?usp=sharing). Then follow pix2pix network to train the seg-to-real network.
 
 We used the segnet from [here](https://github.com/alexgkendall/SegNet-Tutorial) to train and 
 segment driving images. For image translation, we use the code from [Pix2Pix](https://github.com/phillipi/pix2pix), so we don't include again here. 
