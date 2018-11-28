@@ -2,6 +2,10 @@
 #### In BMVC 2017 (Spotlight Presentation) ####
 By Xinlei Pan*, Yurong You*, Ziyan Wang, Cewu Lu
 
+## News!
+    
+We updated with a novel TORCS environment for reinforcement learning [here](https://github.com/xinleipan/py_TORCS), with support for changing dynamics of the environment, getting segmentations and more!
+
 ## Introduction
 
 Virtual to real reinforcement learning proposed a realistic translation
